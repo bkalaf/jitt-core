@@ -1,0 +1,8 @@
+{
+  "name": "jitt-core",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Bobby Kalaf <bobby.kalaf@gmail.com> (https://www.github.com/bkalaf)",
+  "license": "MIT",
+  "private": true
+}
